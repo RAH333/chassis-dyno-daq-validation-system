@@ -1,5 +1,5 @@
 # chassis-dyno-daq-validation-system
-![]()
+![ACDDA&DVS](assets/chassis-dyno-daq-validation-system.jpg)
 
 # Automated Chassis Dyno Data Acquisition & Diagnostic Validation System
 
