@@ -1,0 +1,13 @@
+{
+  "test_metadata": {
+    "test_standard": "IDC_Modified_Validation",
+    "sampling_rate_hz": 10,
+    "facility": "Powertrain_Test_Cell_01"
+  },
+  "limits": {
+    "max_motor_exhaust_temp_c": 115.0,
+    "min_battery_voltage_v": 44.0,
+    "max_battery_current_a": 120.0,
+    "max_engine_rpm": 6500
+  }
+}
