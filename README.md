@@ -1,5 +1,5 @@
 # chassis-dyno-daq-validation-system
-
+![]()
 
 # Automated Chassis Dyno Data Acquisition & Diagnostic Validation System
 
